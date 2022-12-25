@@ -1,0 +1,193 @@
+* {
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+  }
+
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background:#AED7E9;
+    color: #000;
+    font-size: 15px;
+    line-height: 1.5;
+  }
+  
+  #Iphones{
+    margin: auto;
+    float: inline-end;
+}
+
+
+
+
+#Iphone1{
+
+float: left;
+margin-left: auto;
+padding: 10px;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+#Iphone2{
+float: left;
+margin-left: auto;
+padding: 10px;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+#Iphone3{
+float: left;
+margin-left: auto;
+padding: 10px;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+#Iphone4{
+float: left;
+margin-left: auto;
+padding: 10px;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+#Iphone4{
+float: left;
+margin-left: auto;
+padding: 10px;
+padding-right: 30px;
+padding-left: 30px;
+
+}
+
+
+#Samsungs{
+  margin: auto;
+  float: inline-end;
+}
+
+
+#Samsung1{
+
+float: right;
+margin-left: auto;
+padding: 10px;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+#Samsung2{
+float: right;
+margin-left: auto;
+padding: 10px;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+#Samsung3{
+float: right;
+margin-left: auto;
+padding: 10px;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+#Samsung4{
+float: right;
+margin-left: auto;
+padding: 10px;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+
+
+
+
+#Googles{
+  margin: auto;
+  float: inline-end;
+}
+
+
+#Google1{
+
+float: left;
+margin-left: auto;
+padding: 10px;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+#Google2{
+float: left;
+margin-left: auto;
+padding: 10px;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+#Google3{
+float: left;
+margin-left: auto;
+padding: 10px;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+#Google4{
+float: left;
+margin-left: auto;
+padding: 10px;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+
+
+
+
+
+#Nokias{
+  margin: auto;
+  float: inline-end;
+}
+
+
+#Nokia1{
+
+float: left;
+margin-left: auto;
+padding: 10px;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+#Nokia2{
+float: left;
+margin-left: auto;
+padding: 10px;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+#Nokia3{
+float: left;
+margin-left: auto;
+padding: 10px;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+#Nokia4{
+float: left;
+margin-left: auto;
+padding: 10px;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+
+
