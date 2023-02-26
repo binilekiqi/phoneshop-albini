@@ -170,3 +170,15 @@ input [type="sumbit"] {
 input [type="sumbit"]:active {
   opacity: 0.8;
 }
+
+.LoginButton{
+
+  float: right;
+  margin-right: 20px;
+  padding: 30px;
+
+}
+
+
+
+
